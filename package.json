@@ -1,0 +1,14 @@
+{
+  "name": "test-repository",
+  "version": "1.0.0",
+  "description": "Petite application web d'exemple : une liste de tâches",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
